@@ -1,4 +1,4 @@
-# Montos otorgados a organizacones de la Sociedad Civil
+# Montos otorgados a organizaciones de la Sociedad Civil
 Montos otorgados a organizaciones de la sociedad civil para desarrollar proyectos de coinversión en materia de salud y asistencia social.
 
 # ¿Dónde están los datos?
